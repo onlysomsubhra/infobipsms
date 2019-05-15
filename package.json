@@ -1,0 +1,15 @@
+{
+  "name": "infobipsms",
+  "version": "1.0.0",
+  "description": "Send sms via infobip gateway ()\u001b[Dthis is mainly for tanzania)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Somsubht=ra saha\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[3~\u001b[3~\u001b[C\u001b[\u001b[C\u001b[C\u001b[C\u001b[\u001b[B\u001b[F\u001b[F\u001b[B\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dra Saha",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "superagent": "^5.0.5"
+  }
+}

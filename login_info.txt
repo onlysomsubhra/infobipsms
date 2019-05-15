@@ -1,0 +1,11 @@
+// Login //
+const App_ID = '9d1495358977d2a04bb48e0f438e0d4f-561df99e-79ef-4834-8748-6ec8853b3d1f';
+const PhoneNumber = '255652003785';
+const From = 'L-pesa';
+const Message = 'Infobip test sms from Apps';
+
+// Dummy //
+const App_ID = 'xxx';
+const PhoneNumber = '255xxxxxxxxx';
+const From = 'xxxx';
+const Message = 'Infobip test sms';

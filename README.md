@@ -53,5 +53,5 @@ new Promise((resolve, reject) => {
 ### Expected success ouput
 
 ```
-{"messages":[{"to":"to number","status":{"groupId":1,"groupName":"PENDING","id":26,"name":"PENDING_ACCEPTED","description":"Message sent to next instance"},"messageId":"1xxx502417369523574"}]}
+{"messages":[{"to":"255xxxxxxxxx","status":{"groupId":1,"groupName":"PENDING","id":26,"name":"PENDING_ACCEPTED","description":"Message sent to next instance"},"messageId":"1xxx502417369523574"}]}
 ```

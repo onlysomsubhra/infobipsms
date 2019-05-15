@@ -1,6 +1,6 @@
 # Infobip SMS Gateway
 
-Infobip API Client for Node.js using Infobip API using APP ID
+Infobip API Client for Node.js using [Infobip API](https://dev.infobip.com) using APP ID
 
 ## Install
 
